@@ -3,7 +3,6 @@ import certData from "../fixtures/certData.json"
 import { setCertIntoStorage } from "../support/helper"
 import runProjectPage from "../support/pages/RunProjectPage"
 import basePage from "../support/pages/BasePage"
-import BasePage from "../support/pages/BasePage"
 
 
 describe('Перевірка даних сертифікату', () => {
